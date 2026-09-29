@@ -1,12 +1,14 @@
 package minilang;
 
 public enum TokenType {
- Data,
- FILTER,
- MAP,
- REDUCE,
- PRINT,
- OPERATOR,
- 
-
+DATA,
+FILTER,
+MAP,
+REDUCE,
+PRINT,
+COMPARATOR,
+ARITHMETHIC,
+AGGREGATOR,
+NUMBER,
+EOF,
 }

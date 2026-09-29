@@ -1,0 +1,3 @@
+DATA 3 8 5
+FILTER * 5
+PRINT
